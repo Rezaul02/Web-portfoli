@@ -1,0 +1,92 @@
+h1{
+    font-size: 50px;
+
+
+    font-family: 'Poppins', sans-serif;
+}
+.Name-higlite{
+
+color: orange;
+}
+.This{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.This img{
+    width: 100%;
+}
+#A{
+    text-align: justify;
+}
+.top-banner{
+
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+
+}
+section{
+    height: 500px;
+}
+body{
+    margin: 0%;
+}
+.text-class{
+
+    color: white;
+    /*background-color: orange;*/
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg ,rgb(81, 255, 0), tomato);
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 35px;
+}
+.That{
+    float: left;
+
+}
+.B{
+    text-align: justify;
+}
+.Anker{
+    text-align: right;
+}
+.dream{
+    background-image: url("image/dream-bg.png");
+    background-repeat: no-repeat;
+}
+.Z{
+    color: orange;
+}
+.Single-Exprience{
+    box-shadow: 10px 10px 40px gray;
+border-radius: 30px;
+height: 50%;
+}
+.expreance-area{
+
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+/*#Full-stack{
+    border-left: 16px solid;
+    border-image:linear-gradient(180deg ,red,tomato );
+    border-image-slice: 1;
+
+
+}*/
+#Baby-web{
+    border-left: 20px;
+  border-image:linear-gradient(180deg,blue,red)
+}
+footer p{
+    text-align: center;
+}
